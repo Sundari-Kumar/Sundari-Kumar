@@ -1,6 +1,5 @@
-# 💫 About Me:
-🔭 Working on ML & Data Science projects  <br>🌱 Learning DSA (Java), CNNs & Model Deployment  <br>👯 Open to collaborations in ML & Data Analysis  <br>💬 Ask me about Python, Java, SQL, Tableau  <br>⚡ Fun fact: I learn best by building real projects
-
+#  About Me:
+Computer Science Graduate from Government College of Technology, Coimbatore.  <br> AI & ML Intern at Solartis.  <br> Developing VISION-IDE for vulnerability detection and IntellAgent for AI evaluation.  <br> Focused on Machine Learning, Data Science, and Backend development. <br>Strengthening skills in Deep Learning, CNNs, and Model Deployment. <br> Ask me about: Python, SQL, and building end-to-end ML projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sundari-k-041569257) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sundari.k31082004@gmail.com) 
