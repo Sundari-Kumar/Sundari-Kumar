@@ -6,7 +6,7 @@
 - Strengthening skills in Deep Learning, CNNs, and Model Deployment.
 - Ask me about: Python, SQL, and building end-to-end ML projects.
 
-## Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sundari-k-041569257) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sundari.k31082004@gmail.com) 
 
 # Tech Stack:
@@ -16,10 +16,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Sundari-Kumar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sundari-Kumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## GitHub Trophies
+# GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sundari-Kumar&theme=prussian&no-frame=false&no-bg=false&margin-w=4)
 
-### Random Dev Quote
+# Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
